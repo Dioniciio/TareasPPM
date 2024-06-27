@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1718903343 source:c:\users\dioni\desktop\tareas de programacion\tarea5\mayusculas y minusculas\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

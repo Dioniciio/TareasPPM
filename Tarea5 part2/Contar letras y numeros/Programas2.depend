@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1718904442 source:c:\users\dioni\desktop\tareas de programacion\tarea5\programas2\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
