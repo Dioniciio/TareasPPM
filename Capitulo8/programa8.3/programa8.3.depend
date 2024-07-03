@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1718980556 source:c:\users\dioni\desktop\tareas de programacion\programa8.3\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
