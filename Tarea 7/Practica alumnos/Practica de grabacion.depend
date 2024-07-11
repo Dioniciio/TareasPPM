@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1720726908 source:c:\users\dioni\desktop\tareas de programacion\practica de grabacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
