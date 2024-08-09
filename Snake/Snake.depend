@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1723207685 source:c:\users\dioni\desktop\tareas de programacion\juegos\snake\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+
